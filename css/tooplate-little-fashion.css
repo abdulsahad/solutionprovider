@@ -38,6 +38,11 @@ https://www.tooplate.com/view/2127-little-fashion
   justify-content: center;
 }
 
+footer > section {
+  display: flex;
+  justify-content: center;
+}
+
 body,
 html {
   height: 100%;
